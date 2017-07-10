@@ -1,5 +1,4 @@
-{
-  "blogPosts": [
+[
    {
       "title": "titleExmp",
       "body": "ad matai",
@@ -12,5 +11,4 @@
      "author": "your father",
      "date": "08/10/2017"
    }
-  ]
-}
+]
