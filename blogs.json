@@ -1,7 +1,16 @@
 {
-  "posts": [
-    { "title": "hello world",
-      "body": "hello world, this is my sexy body."
-    }
+  "blogPosts": [
+   {
+      "title": "titleExmp",
+      "body": "ad matai",
+      "author": "kerbel",
+      "date": "03/04/2018"
+   },
+   {
+     "title": "another tit",
+     "body": "fuck your mother",
+     "author": "your father",
+     "date": "08/10/2017"
+   }
   ]
 }
