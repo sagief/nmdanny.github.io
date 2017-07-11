@@ -2,8 +2,8 @@
   {
     "name": "",
     "content": "",
-    "severity": "",
-    "regNo": "",
-    "severAmount": "",
+    "severity": 0;
+    "regNo": 0,
+    "severAmount": 0,
   }
 ]
